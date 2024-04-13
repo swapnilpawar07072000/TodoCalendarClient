@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TodoCalendarClient/static/css/main.d5289b2f.css",
+    "main.js": "/TodoCalendarClient/static/js/main.e3d50b11.js",
+    "index.html": "/TodoCalendarClient/index.html",
+    "main.d5289b2f.css.map": "/TodoCalendarClient/static/css/main.d5289b2f.css.map",
+    "main.e3d50b11.js.map": "/TodoCalendarClient/static/js/main.e3d50b11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.e3d50b11.js"
+  ]
+}
